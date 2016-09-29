@@ -24,11 +24,11 @@ version: 1.0.0
 
 # About/contact
 author:
-  name: Codinfox
+  name: D2GSS Team
   description: Team D2GSS learning to be a giant in CTF world.
   gravatar: 594b9770f934ef523e16cddce936c76c # md5 hash of your email address
   contact:
-    linkedin:  https://www.linkedin.com/in/lizhihao
+    #linkedin:  https://www.linkedin.com/in/lizhihao
     github:    https://github.com/codinfox
     # facebook:  <hide>
     twitter:   https://twitter.com/D2GSS
@@ -40,7 +40,8 @@ nav:
     - '/'
   Blog:           
     - '/blog/'
-    - { Categories: '/blog/Categories/' }
+    - { CTF: '/blog/Categories/' }
+    - { CTF2: '/blog/Categories/' }
     - { Tags: '/blog/tags/' }
   #About:          
   #  - '/about/'
@@ -49,7 +50,7 @@ nav:
 
 # Where are tags and categories displayed
 tag_page: '/blog/tags/'
-category_page: '/blog/H4CKT-2016/'
+category_page: '/blog/Categories/'
 
 hero:
   image: /public/img/we_will_be_giants_by_yalestewart.jpg
