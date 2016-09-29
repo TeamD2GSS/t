@@ -26,13 +26,13 @@ version: 1.0.0
 author:
   name: Codinfox
   description: Team D2GSS learning to be a giant in CTF world.
-  gravatar: 3c2986ad7ac1f2230ea3596f44563328 # md5 hash of your email address
+  gravatar: 594b9770f934ef523e16cddce936c76c # md5 hash of your email address
   contact:
     linkedin:  https://www.linkedin.com/in/lizhihao
     github:    https://github.com/codinfox
     # facebook:  <hide>
     twitter:   https://twitter.com/D2GSS
-    email:     d2gss@gmail.com
+    email:     teamd2gss@gmail.com
 
 # Navigation (2nd level links supported)
 nav:
