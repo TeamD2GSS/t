@@ -41,7 +41,7 @@ nav:
   Blog:           
     - '/blog/'
     - { CTF: '/blog/Categories/' }
-    - { CTF2: '/blog/Categories/' }
+    - { CTF2: '/_posts/2014-01-01-example-content.md' }
     - { Tags: '/blog/tags/' }
   #About:          
   #  - '/about/'
@@ -50,7 +50,7 @@ nav:
 
 # Where are tags and categories displayed
 tag_page: '/blog/tags/'
-category_page: '_posts/2014-01-01-example-content.md'
+category_page: '/blog/Categories/'
 
 hero:
   image: /public/img/we_will_be_giants_by_yalestewart.jpg
