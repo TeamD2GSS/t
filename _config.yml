@@ -50,7 +50,7 @@ nav:
 
 # Where are tags and categories displayed
 tag_page: '/blog/tags/'
-category_page: '/blog/Categories/'
+category_page: '_posts/2014-01-01-example-content.md'
 
 hero:
   image: /public/img/we_will_be_giants_by_yalestewart.jpg
